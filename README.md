@@ -38,3 +38,7 @@ Billing Overview:United Healthcare has the highest billing
 Cost Effectiveness:Diabetes and Cancer are the most costly with longest stays; Asthma and Athritis are more cost effective
 Demographics:Average patient is of age 52
 Test results : Hypertension has the most abnormal results; Asthma shows more normal results; Obesity and Cancer have higher inconclusive rates.
+
+###  Screenshots
+
+<img width="676" alt="insights" src="https://github.com/user-attachments/assets/0b962b7f-0e67-4a28-8b96-1b98e1ddb5d4" />
